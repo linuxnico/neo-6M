@@ -124,7 +124,6 @@ class GpsNeo6():
         """
             si on peut on geolocalise les coordonnees
             """
-        print(float(self.latitude),float(self.longitude))
         if geo:
             try:
                 
