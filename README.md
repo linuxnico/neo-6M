@@ -1,6 +1,6 @@
-# neo6-M
+# neo-6M
 
-Python 3 class for neo6-M GPS
+Python 3 class for neo-6M GPS
 
 # required:
 
