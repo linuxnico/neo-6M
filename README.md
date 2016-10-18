@@ -14,9 +14,9 @@ gps=GpsNeo6(port="/dev/ttyUSB0",debit=9600,diff=2) #diff is difference between u
 
 while True:
 
-  gps.traite()
+    gps.traite()
   
-  print(gps) # print all info
+    print(gps) # print all info
   
-  print(gps.latitude,gps.longitude)
+    print(gps.latitude,gps.longitude)
   
