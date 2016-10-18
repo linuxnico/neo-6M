@@ -4,7 +4,7 @@ Python 3 class for neo-6M GPS
 
 # required:
 
-geopy library if you want geolocalize your gps point
+geopy library if you want to geolocalize your gps point
 
 https://github.com/geopy/geopy
 
