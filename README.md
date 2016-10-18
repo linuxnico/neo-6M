@@ -2,11 +2,11 @@
 
 Python 3 class for neo6-M GPS
 
-required:
+# required:
 
 geopy library if you want geolocalize your gps point
 
-use:
+# use:
 
 from neo6 import GpsNeo6
 
