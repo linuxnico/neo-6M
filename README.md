@@ -1,3 +1,17 @@
 # neo6-M
 
 Python 3 class for neo6-M GPS
+
+required:
+
+geopy library if you want geolocalize your gps point
+
+use:
+
+
+gps=GpsNeo6(port="/dev/ttyUSB0",debit=9600,diff=2) #diff is difference between utc time en local time    
+while True:
+  gps.traite()
+  print(gps) # print all info
+  print(gps.latitude,gps.longitude)
+  
