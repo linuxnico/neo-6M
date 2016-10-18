@@ -22,3 +22,16 @@ https://github.com/geopy/geopy
   
             print(gps.latitude,gps.longitude)
   
+
+
+# results
+
+        heure: 15h49m20s
+        latitude: 41.5906788889
+        longitude: 8.7393938889
+        vitesse: 0.251 km/h
+        altitude: 147.4 metre(s)
+        precision: 1 metre(s)
+        Nombre de satelites vue: 13
+        
+Sorry for french text in results
