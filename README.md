@@ -6,6 +6,8 @@ Python 3 class for neo-6M GPS
 
 geopy library if you want geolocalize your gps point
 
+https://github.com/geopy/geopy
+
 # use:
 
         from neo6 import GpsNeo6
